@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ahmed-Rimon
 - 👀 I’m a Laravel Vue Developer And Shopify Developer
-- 🌱 I’m currently working Sonno Group Limited
 - 💞️ I’m looking to collaborate on 
 - Mail me kamran.rimon.bd@gmail.com
 
